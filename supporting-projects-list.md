@@ -10,11 +10,11 @@
 
 ## OS
 
-KVM、[OpenCloudOS](https://github.com/OpenCloudOS)、TencentOS Server、[TencentOS Tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny) etc.
+KVM、[OpenCloudOS](https://github.com/OpenCloudOS)、[TencentOS Server](https://github.com/Tencent/TencentOS-kernel)、[TencentOS Tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny) etc.
 
 ## AI
 
-AngelML、[Kubeflow](https://github.com/kubeflow)、[ncnn](https://github.com/Tencent/ncnn) etc.
+[AngelML](https://github.com/Angel-ML/angel)、[Kubeflow](https://github.com/kubeflow)、[ncnn](https://github.com/Tencent/ncnn) etc.
 
 ## Networks & IoT
 
