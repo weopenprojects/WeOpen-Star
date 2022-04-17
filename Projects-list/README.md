@@ -27,11 +27,11 @@
 |<a href="https://github.com/tkestack/tke"><img src="https://avatars0.githubusercontent.com/u/57258287?s=200&v=4" width="70px;" alt=""/><br /><sub><b>TKEStack</b></sub></a><br />|TKEStack 是一个开源项目，为在生产环境中部署容器的组织提供一个统一的容器管理平台。 TKEStack 可以简化部署和使用 Kubernetes，满足 IT 要求，并增强 DevOps 团队的能力。||
 
 
-## 大数据 🖥
+## 大数据与数据库 🖥
 | 项目名称                                                     | 项目简介                                                     | 立即参与贡献 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
-|<a href="https://github.com/apache/dolphinscheduler"><img src="https://dolphinscheduler.apache.org/img/hlogo_white.svg" width="70px;" alt=""/><br /><sub><b>Tendis</b></sub></a><br />|一个分布式易扩展的可视化DAG工作流任务调度系统。致力于解决数据处理流程中错综复杂的依赖关系，使调度系统在数据处理流程中开箱即用。||
-|<a href="https://github.com/apache/incubator-eventmesh"><img src="https://github.com/apache/incubator-eventmesh/raw/master/docs/images/logo2.png" width="70px;" alt=""/><br /><sub><b>Tendis</b></sub></a><br />|EventMesh是一个动态的云原生事件驱动架构基础设施，用于分离应用程序和后端中间件层，它支持广泛的用例，包括复杂的混合云、使用了不同技术栈的分布式架构。||
+|<a href="https://github.com/apache/dolphinscheduler"><img src="https://dolphinscheduler.apache.org/img/hlogo_white.svg" width="70px;" alt=""/><br /><sub><b>Apache dolphinscheduler</b></sub></a><br />|一个分布式易扩展的可视化DAG工作流任务调度系统。致力于解决数据处理流程中错综复杂的依赖关系，使调度系统在数据处理流程中开箱即用。||
+|<a href="https://github.com/apache/incubator-eventmesh"><img src="https://github.com/apache/incubator-eventmesh/raw/master/docs/images/logo2.png" width="70px;" alt=""/><br /><sub><b>EventMesh</b></sub></a><br />|EventMesh是一个动态的云原生事件驱动架构基础设施，用于分离应用程序和后端中间件层，它支持广泛的用例，包括复杂的混合云、使用了不同技术栈的分布式架构。||
 |<a href="https://github.com/apache/incubator-inlong"><img src="https://inlong.apache.org/img/logo.svg" width="70px;" alt=""/><br /><sub><b>Apache InLong</b></sub></a><br />|Apache InLong（应龙）是一个一站式海量数据集成框架，提供自动、安全、可靠和高性能的数据传输能力，同时支持批和流，方便业务构建基于流式的数据分析、建模和应用。||
 |<a href="https://github.com/apache/kylin"><img src="https://kylin.apache.org/assets/images/kylin_logo.png" width="70px;" alt=""/><br /><sub><b>Apache Kylin</b></sub></a><br />|Apache Kylin™是一个开源的、分布式的分析型数据仓库，提供Hadoop/Spark 之上的 SQL 查询接口及多维分析（OLAP）能力以支持超大规模数据，最初由 eBay 开发并贡献至开源社区。它能在亚秒内查询巨大的表。||
 |<a href="https://github.com/apache/ozone"><img src="https://cwiki.apache.org/confluence/download/attachments/165223535/OZONE?version=1&modificationDate=1618431641000&api=v2" width="70px;" alt=""/><br /><sub><b>Apache Ozone</b></sub></a><br />|Ozone 是 Hadoop 的分布式对象存储系统，具有易扩展和冗余存储的特点。Ozone 不仅能存储数十亿个不同大小的对象，还支持在容器化环境（比如 Kubernetes）中运行。Apache Spark、Hive 和 YARN 等应用无需任何修改即可使用 Ozone。Ozone 提供了 Java API、S3 接口和命令行接口，极大地方便了 Ozone 在不同应用场景下的使用。||
@@ -39,9 +39,8 @@
 |<a href="https://github.com/apache/incubator-seatunnel"><img src="https://camo.githubusercontent.com/4abcd6fb7733e4876f75e65b1304474437e1f6f7ecb7b8d9f5b1553779ad2c72/68747470733a2f2f73656174756e6e656c2e6170616368652e6f72672f696d6167652f6c6f676f2e706e67" width="70px;" alt=""/><br /><sub><b>Apache Seatunnel</b></sub></a><br />|SeaTunnel 是一个非常易用的支持海量数据实时同步的超高性能分布式数据集成平台，每天可以稳定高效同步数百亿数据，已在近百家公司生产上使用。||
 |<a href="https://github.com/apache/shardingsphere"><img src="https://shardingsphere.apache.org/images/firstSection/shardingSphereLogo.png" width="70px;" alt=""/><br /><sub><b>Apache ShardingSphere</b></sub></a><br />|Apache ShardingSphere 是一套开源的分布式数据库增强计算引擎，其通过可插拔架构构建基于数据库之上的生态系统，实现包括数据分片、弹性伸缩、加密脱敏等功能为代表的增强能力。||
 |<a href="https://github.com/milvus-io/milvus"><img src="https://github.com/milvus-io/artwork/raw/master/horizontal/color/milvus-horizontal-color.png" width="70px;" alt=""/><br /><sub><b>Milvus</b></sub></a><br />|Milvus 是一款全球领先的开源向量数据库，赋能 AI 应用和向量相似度搜索，加速非结构化数据检索。用户在任何部署环境中均可获得始终如一的用户体验。Milvus 2.0 是一款云原生向量数据库，采用存储与计算分离的架构设计。该重构版本的所有组件均为无状态组件，极大地增强了系统弹性和灵活性。更多系统架构细节，参考 Milvus 系统架构。Milvus 基于 Apache 2.0 License 协议发布，于 2019 年 10 月正式开源，是 LF AI & Data 基金会 的毕业项目。||
-|<a href="https://github.com/4paradigm/OpenMLDB"><img src="https://github.com/4paradigm/OpenMLDB/raw/main/images/openmldb_logo.png" width="70px;" alt=""/><br /><sub><b>OpenMLDB</b></sub></a><br />|OpenMLDB 是一个开源机器学习数据库，提供生产级数据及特征开发全栈 FeatureOps 解决方案。||
 |<a href="https://github.com/cas-bigdatalab/piflow"><img src="https://github.com/cas-bigdatalab/piflow/raw/master/doc/piflow-logo2.png" width="70px;" alt=""/><br /><sub><b>PiFlow</b></sub></a><br />|PiFlow是一个基于分布式计算框架技术开发的大数据流水线处理与调度系统。该系统将大数据采集、清洗、存储与分析进行抽象和组件化开发，以所见即所得、拖拽配置的简洁方式实现大数据处理流程化配置、运行与智能监控。提供100+的数据处理组件，包括Hadoop 、Spark、MLlib、Hive、Solr、Redis、MemCache、ElasticSearch、JDBC、MongoDB、HTTP、FTP、XML、CSV、JSON等，更支持面向领域的二次组件开发。数据可溯源，性能优越。||
-|<a href="https://github.com/Tencent/TBase"><img src="https://github.com/Tencent/TBase/raw/master/images/TBase_logo_white.png" width="70px;" alt=""/><br /><sub><b>PiFlow</b></sub></a><br />|TBase是腾讯自主研发的分布式数据库系统，具备高 SQL 兼容度、完整分布式事务、高安全、高扩展、多级容灾等能力，成功应用在金融、政府、电信等行业核心业务中。同时提供完善的容灾、备份、监控、审计等全套方案，适用于GB～PB级海量 HTAP 场景。||
+|<a href="https://github.com/Tencent/TBase"><img src="https://github.com/Tencent/TBase/raw/master/images/TBase_logo_white.png" width="70px;" alt=""/><br /><sub><b>TBase</b></sub></a><br />|TBase是腾讯自主研发的分布式数据库系统，具备高 SQL 兼容度、完整分布式事务、高安全、高扩展、多级容灾等能力，成功应用在金融、政府、电信等行业核心业务中。同时提供完善的容灾、备份、监控、审计等全套方案，适用于GB～PB级海量 HTAP 场景。||
 |<a href="https://github.com/taosdata/TDengine"><img src="https://github.com/taosdata/TDengine/raw/develop/TDenginelogo.png" width="70px;" alt=""/><br /><sub><b>TDengine</b></sub></a><br />|TDengine 是一款高性能、分布式、支持 SQL 的时序数据库。而且除时序数据库功能外，它还提供缓存、数据订阅、流式计算等功能，最大程度减少研发和运维的复杂度，且核心代码，包括集群功能全部开源（开源协议，AGPL v3.0）。||
 
 
@@ -50,6 +49,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
 |<a href="https://github.com/Angel-ML/angel"><img src="https://github.com/Angel-ML/angel/raw/master/assets/angel_logo.png" width="70px;" alt=""/><br /><sub><b>Angel</b></sub></a><br />|Angel是一个基于参数服务器（Parameter Server）理念开发的高性能分布式机器学习和图计算平台，它基于腾讯内部的海量数据进行了反复的调优，并具有广泛的适用性和稳定性，模型维度越高，优势越明显。 Angel由腾讯和北京大学联合开发，兼顾了工业界的高可用性和学术界的创新性。Angel的核心设计理念围绕模型。它将高维度的大模型合理切分到多个参数服务器节点，并通过高效的模型更新接口和运算函数，以及灵活的同步协议，轻松实现各种高效的机器学习和图算法。||
 |<a href="https://github.com/Tencent/ncnn"><img src="https://raw.githubusercontent.com/Tencent/ncnn/master/images/256-ncnn.png" width="70px;" alt=""/><br /><sub><b>ncnn</b></sub></a><br />|ncnn 是一个为手机端极致优化的高性能神经网络前向计算框架。ncnn 从设计之初深刻考虑手机端的部署和使用。无第三方依赖，跨平台，手机端 cpu 的速度快于目前所有已知的开源框架。基于 ncnn，开发者能够将深度学习算法轻松移植到手机端高效执行，开发出人工智能 APP，将 AI 带到你的指尖。||
+|<a href="https://github.com/4paradigm/OpenMLDB"><img src="https://github.com/4paradigm/OpenMLDB/raw/main/images/openmldb_logo.png" width="70px;" alt=""/><br /><sub><b>OpenMLDB</b></sub></a><br />|OpenMLDB 是一个开源机器学习数据库，提供生产级数据及特征开发全栈 FeatureOps 解决方案。||
 
 
 ## 网络&物联网 🛸
