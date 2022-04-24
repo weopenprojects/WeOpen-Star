@@ -9,6 +9,9 @@ assignees: ''
 
 # <center>xxx（项目名）贡献指南</center>
 
+[English Version Here](https://github.com/weopenprojects/WeOpen-Star/issues/new?assignees=&labels=&template=contribution-guideline---issue-template.md&title=%5BWeOpen-Star-Issue%5D)
+
+
 欢迎来到开源摘星计划-xxx（项目名）贡献专栏 。xxx（项目名）已加入开源摘星计划，该计划提供奖励以鼓励你加入我们的社区：所有参与本项目贡献的开发者都可获得相应贡献积分、奖励以及被评选为年度摘星100 人的机会，活动及奖励详情请见：[开源摘星计划](https://github.com/weopenprojects/WeOpen-Star)。
 
 📅活动时间：2022年5月-12月
