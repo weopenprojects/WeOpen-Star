@@ -16,7 +16,7 @@ Here is the explainatino about the good first issue of our project:
 
 1. We listed some good first issues in below. No matter you are newbie in open-source or senior contributor, both intro-level task, difficult task and also some daily missions can be find here. If you are willing to solve it, please click that issue and leave the comment 'WeOpen Star-I want to pick this task'(noneed for daily missions or other missions). Please link related issues in your PR. 
 
-2. Different tasks correspond to different points, you can check rules of point record in [About Points Rules](https://github.com/weopenprojects/WeOpen-Star/tree/main/Contributors/Points_rules) .
+2. Different tasks correspond to different points, you can check rules of point record in [About Points Rules](https://github.com/weopenprojects/WeOpen-Star/tree/main/earn-points.md) .
 
 3. In order to redeem your rewards or know your questions，please join WeOpen Star Community（add WeChat number：TCOS001, we will pull you into the WeChat communication group）
 
@@ -52,4 +52,3 @@ Points reward:10 Point/Mission, and we will award top 10 creator monthly with di
 Before you start, we strongly encourage to read through our Contribution Guideline.
         
 > Please add your community contribution guideline for this project.
-
