@@ -50,19 +50,21 @@
 
 __🎁 礼包 BUFF：__
 
-每月将为本月优秀笔记作者颁发摘星者学习礼包，礼包奖品包括且不限于QQ公仔、QQ 音乐/腾讯视频会员年卡、腾源会T恤等。（奖品以当月发放为准）
+每月将为本月优秀笔记作者颁发摘星者学习礼包，礼包奖品包括且不限于QQ公仔、QQ 音乐/腾讯视频会员年卡、腾源会T恤等。（奖品以当月发放为准）  
+  
 
 #### 👉方向二：
 当你对项目有初步了解，可以开始完成一些简单的社区任务：
 
-例如社区日常任务、good first issue（文档类）。任务完成后自行更新个人积分。[关于积分](/earn-points.md)
+例如社区日常任务、good first issue（文档类）。任务完成后自行更新个人积分。[关于积分](/earn-points.md)  
+  
 
 #### 👉方向三：
 在足够了解项目及贡献方式后， 可以开始尝试参与开源项目功能开发、 bug 修复（可组队解解决）。
 
 参与方式：
 
-**Step 1** ：<span style="background:yellow">前往[开源项目 issue 栏](https://github.com/weopenprojects/WeOpen-Star/blob/main/Projects-list/README.md)</span>，选择合适的项目，进入其 issue 详情页，comment`[WeOpen Star]I would like to help`即代表认领任务成功 。
+**Step 1** ：<span style="background:yellow">在[WeOpen Star 支持项目列表](https://github.com/weopenprojects/WeOpen-Star/blob/main/Projects-list/README.md)</span>中找到项目 issue 列表，进入其 issue 详情页，comment`[WeOpen Star]I would like to help`即代表认领任务成功 。
 
 **step 2** ：基于 issue 进行开发，并且提交 PR。注意，在 PR 提交前，请将相关 issue 链接到你所提交的 PR 里;
 
@@ -86,3 +88,8 @@ __🎁 礼包 BUFF：__
 - 高校&社区&项目合作：小助手微信（微信号：TCOS001），备注「摘星合作」
 - 官方邮箱：[WeOpen@tencent.com](mailto:WeOpen@tencent.com)
 
+### 「开源摘星计划（WeOpen Star）2022」诚挚感谢以下合作方：
+**战略合作伙伴**：腾讯犀牛鸟、中国计算机协会（CCF）、中国信息通信研究院 、上海开源信息技术协会、新商科教育教学开放创新联盟、湾区数科联盟、GoCN 、开源社  
+**高校**：复旦大学、清华大学、上海交通大学、华东师范大学、华东理工大学、上海外贸、北京交通大学、西安邮电大学等  
+**支持社区**：  
+ 
