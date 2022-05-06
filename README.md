@@ -27,9 +27,9 @@
 #### 3. 所有参与者都将获得「开源摘星者」纪念证书； 
 
 ### 如何参与？
-参与本计划的开源项目与社区将于 5 月陆续公布其社区任务，所有参与者可在任务开放后，自由选择以 PR 或 Issue 提交的形式。[WeOpen Star 支持的项目](https://github.com/weopenprojects/WeOpen-Star/blob/main/Projects-list/README.md) （项目持续更新中...预计5月15日前更新完成）
-1. 填写报名表单；
-1. 添加官方小助手微信（微信号：TCOSOO1）回复「摘星」，加入活动社群；
+参与本计划的开源项目与社区将于 5 月陆续公布其社区任务，所有参与者可在任务开放后，自由选择以 PR 或 Issue 提交的形式。[WeOpen Star 支持的项目](https://github.com/weopenprojects/WeOpen-Star/blob/main/Projects-list/README.md)
+1. 填写[报名表单](https://wj.qq.com/s2/9948192/55c2/)；
+1. 添加官方小助手微信（微信号：TCOS001）回复「摘星」，加入活动社群；
 1. 自由选择你的贡献方向，累积你的贡献积分。
 
 #### 👉方向一：
@@ -57,8 +57,7 @@ __🎁 礼包 BUFF：__
 #### 👉方向二：
 当你对项目有初步了解，可以开始完成一些简单的社区任务：
 
-例如社区日常任务、good first issue（文档类，前往项目 Github 主页或项目贡献指南查看）。任务完成后自行更新个人积分。[关于积分](/earn-points.md)  
-  
+例如社区日常任务、good first issue（文档类，前往项目 Github 主页或项目贡献指南查看）。任务完成后[自行更新个人积分](https://docs.qq.com/sheet/DSnRrR2dYZ1F6Qkh5?tab=BB08J2)。[关于积分](/earn-points.md)
 
 #### 👉方向三：
 在足够了解项目及贡献方式后， 可以开始尝试参与开源项目功能开发、 bug 修复（可组队解解决）。
@@ -71,7 +70,7 @@ __🎁 礼包 BUFF：__
 
 **Step 3** ：PR提交后，项目 PMC 将进行 review， PR 被合并后即视为任务完成;
 
-**Step 4** :  自行更新个人积分。[关于积分](/earn-points.md)
+**Step 4** :  [自行更新个人积分](https://docs.qq.com/sheet/DSnRrR2dYZ1F6Qkh5?tab=BB08J2)。[关于积分](/earn-points.md)
 
 ### 积分设置
 |积分项|分值|
