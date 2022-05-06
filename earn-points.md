@@ -11,9 +11,8 @@
 
 ### 积分统计方式
 所有积分统计均遵从信任原则，由贡献者自行根据以下步骤进行积分提报：
-1. Fork WeOpen Github 仓库
-2. 在 WeOpen-Star/Contributors/更新  WeOpen-Star [贡献记录表格](https://docs.qq.com/sheet/DSnRrR2dYZ1F6Qkh5)
-3. 管理员审核通过，即可获得积分
+1. 在 [贡献记录表格](https://docs.qq.com/sheet/DSnRrR2dYZ1F6Qkh5)记录积分
+2. 管理员审核通过，即可获得积分
 
 每周管理员定时统计积分，更新积分排行榜。
 
