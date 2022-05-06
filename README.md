@@ -29,7 +29,7 @@
 ### 如何参与？
 参与本计划的开源项目与社区将于 5 月陆续公布其社区任务，所有参与者可在任务开放后，自由选择以 PR 或 Issue 提交的形式。[WeOpen Star 支持的项目](https://github.com/weopenprojects/WeOpen-Star/blob/main/Projects-list/README.md)
 1. 填写报名表单；
-1. 添加官方小助手微信（微信号：TCOS001）回复「摘星」，加入活动社群；
+1. 添加官方小助手微信（微信号：TCOSOO1）回复「摘星」，加入活动社群；
 1. 自由选择你的贡献方向，累积你的贡献积分。
 
 #### 👉方向一：
