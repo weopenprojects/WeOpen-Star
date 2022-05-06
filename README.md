@@ -39,7 +39,7 @@
 
 **Step 1** ：选择合适的主题，开始撰写、录制笔记/视频，并发布在任意博客/社区平台。
 
-**Step 2** ：[自行更新个人积分](https://github.com/weopenprojects/WeOpen-Star/blob/main/Contributors/README.md)
+**Step 2** ：[自行更新个人积分](https://docs.qq.com/sheet/DSnRrR2dYZ1F6Qkh5?tab=BB08J2)
 
 注意：
 
