@@ -1,4 +1,4 @@
-# <center>🌟WeOpen Star 支持项目列表🌟</center>
+<h1 align="center">🌟WeOpen Star 支持项目列表🌟</h1>
 
 <p align="center">
 🙋🏻‍♀️🙋🏻 立即参与开源贡献，你的每一个想法和意见都很珍贵 🙆🏻‍♀️🙆🏻
