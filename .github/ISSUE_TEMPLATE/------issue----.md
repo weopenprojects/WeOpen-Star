@@ -22,7 +22,7 @@ assignees: ''
 ### **以下是项目可参与的方向：**
 1. 我们列出了适合首次加入 <span style="background:yellow;color:#000">xxx（项目名）</span>社区的贡献者的问题、适合对项目有足够了解的贡献者的特殊 issue 挑战（参见下面的列表）以及一些社区日常任务。如果你愿意解决，请点击该 issue 并在评论区留言“WeOpen Star”（日常及其他任务无需此操作）。提交 PR 时，请同时将 PR 链接到相应的 issue。
 
-2. 对于成功完成任意任务的贡献者，为记录你的积分以及发放奖励，请自行前往你的积分主页记录。积分记录规则详见：[关于积分](https://github.com/weopenprojects/WeOpen-Star/tree/main/Contributors/Points_rules)。
+2. 对于成功完成任意任务的贡献者，为记录你的积分以及发放奖励，请自行前往你的积分主页记录。积分记录规则详见：[关于积分](https://github.com/weopenprojects/WeOpen-Star/tree/main/earn-points.md)。
 
 
 ### **在开始贡献之前：**
