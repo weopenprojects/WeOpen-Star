@@ -27,7 +27,7 @@
 #### 3. 所有参与者都将获得「开源摘星者」纪念证书； 
 
 ### 如何参与？
-参与本计划的开源项目与社区将于 5 月陆续公布其社区任务，所有参与者可在任务开放后，自由选择以 PR 或 Issue 提交的形式。[WeOpen Star 支持的项目](https://github.com/weopenprojects/WeOpen-Star/blob/main/Projects-list/README.md)
+参与本计划的开源项目与社区将于 5 月陆续公布其社区任务，所有参与者可在任务开放后，自由选择以 PR 或 Issue 提交的形式。[WeOpen Star 支持的项目](https://github.com/weopenprojects/WeOpen-Star/blob/main/Projects-list/README.md) （项目持续更新中...预计5月15日前更新完成）
 1. 填写报名表单；
 1. 添加官方小助手微信（微信号：TCOSOO1）回复「摘星」，加入活动社群；
 1. 自由选择你的贡献方向，累积你的贡献积分。
