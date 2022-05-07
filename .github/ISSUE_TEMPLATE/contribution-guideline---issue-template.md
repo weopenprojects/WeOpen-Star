@@ -18,7 +18,7 @@ Here is the explainatino about the good first issue of our project:
 
 2. Different tasks correspond to different points, you can check rules of point record in [About Points Rules](https://github.com/weopenprojects/WeOpen-Star/tree/main/earn-points.md) .
 
-3. In order to redeem your rewards or know your questions，please join WeOpen Star Community（add WeChat number：TCOS001, we will pull you into the WeChat communication group）
+3. In order to redeem your rewards or know your questions，please join WeOpen Star Community（add WeChat number：TCOSOO1, we will pull you into the WeChat communication group）
 
 
 ## 🌟About [Your Project Name]
