@@ -28,7 +28,7 @@ assignees: ''
 ### **在开始贡献之前：**
 - 请加入【开源摘星计划】社群
 
-     <span style="background:yellow;color:#000">请添加官方小助手微信（微信号：TCOS001）</span>
+     <span style="background:yellow;color:#000">请添加官方小助手微信（微信号：TCOSOO1）</span>
 - 建议你通读我们的贡献指南 
         
     <span style="background:yellow;color:#000"> // 请项目自行补充社区贡献指南。</span>
