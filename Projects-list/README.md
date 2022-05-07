@@ -63,7 +63,9 @@
 
 
 ## 操作系统 ⚙️
-|<a href="https://github.com/OpenCloudOS"><img src="../assets/logos/OpenCloudOS.png" width="70px;" alt="OpenCloudOS"/><br /><sub><b>OpenCloudOS</b></sub></a><br />|OpenCloudOS是由操作系统、云平台、软硬件厂商与个人共同倡议发起的操作系统社区项目。成立之初，即决定成为完全开放中立的开源社区，并已通过开放原子开源基金会的 TOC 评议，确认接受社区项目捐赠。社区将打造全面中立、开放、安全、稳定易用、高性能的Linux服务器操作系统为目标，与成员单位共同构建健康繁荣的国产操作系统生态。|建设中|
+| 项目名称 | 项目简介 | 立即参与贡献 |
+| :-: | - | - |
+|<a href="https://github.com/OpenCloudOS"><img src="../assets/logos/OpenCloudOS.png" width="70px;" alt="OpenCloudOS"/><br /><sub><b>OpenCloudOS</b></sub></a><br/>|OpenCloudOS是由操作系统、云平台、软硬件厂商与个人共同倡议发起的操作系统社区项目。成立之初，即决定成为完全开放中立的开源社区，并已通过开放原子开源基金会的 TOC 评议，确认接受社区项目捐赠。社区将打造全面中立、开放、安全、稳定易用、高性能的Linux服务器操作系统为目标，与成员单位共同构建健康繁荣的国产操作系统生态。|建设中|
 
 
 ## 人工智能 🤖️
