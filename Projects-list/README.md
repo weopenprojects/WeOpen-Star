@@ -48,7 +48,7 @@
 ## 大数据与数据库 🖥
 | 项目名称 | 项目简介 | 立即参与贡献 |
 | :-: | - | - |
-|<a href="https://github.com/apache/dolphinscheduler"><img src="https://dolphinscheduler.apache.org/img/hlogo_white.svg" width="70px;" alt=""/><br /><sub><b>Apache dolphinscheduler</b></sub></a><br />|一个分布式易扩展的可视化DAG工作流任务调度系统。致力于解决数据处理流程中错综复杂的依赖关系，使调度系统在数据处理流程中开箱即用。|建设中|
+|<a href="https://github.com/apache/dolphinscheduler"><img src="../assets/logos/dolphinscheduler.png" width="70px;" alt=""/><br /><sub><b>Apache dolphinscheduler</b></sub></a><br />|一个分布式易扩展的可视化DAG工作流任务调度系统。致力于解决数据处理流程中错综复杂的依赖关系，使调度系统在数据处理流程中开箱即用。|建设中|
 |<a href="https://github.com/apache/incubator-inlong"><img src="https://inlong.apache.org/img/logo.svg" width="70px;" alt=""/><br /><sub><b>Apache InLong</b></sub></a><br />|Apache InLong（应龙）是一个一站式海量数据集成框架，提供自动、安全、可靠和高性能的数据传输能力，同时支持批和流，方便业务构建基于流式的数据分析、建模和应用。|建设中|
 |<a href="https://github.com/apache/kylin"><img src="https://kylin.apache.org/assets/images/kylin_logo.png" width="70px;" alt=""/><br /><sub><b>Apache Kylin</b></sub></a><br />|Apache Kylin™是一个开源的、分布式的分析型数据仓库，提供Hadoop/Spark 之上的 SQL 查询接口及多维分析（OLAP）能力以支持超大规模数据，最初由 eBay 开发并贡献至开源社区。它能在亚秒内查询巨大的表。|建设中|
 |<a href="https://github.com/apache/ozone"><img src="https://cwiki.apache.org/confluence/download/attachments/165223535/OZONE?version=1&modificationDate=1618431641000&api=v2" width="70px;" alt=""/><br /><sub><b>Apache Ozone</b></sub></a><br />|Ozone脱胎于Hadoop社区的HDFS项目，是新一代分布式对象存储开源项目，也是Apache最新的顶级项目之一。Ozone的目标是打造大数据场景下融合文件系统和对象存储的统一方案，生态上支持Hadoop FS，对象/S3，本地路径Mount和K8s CSI等多种访问方式，Ozone的设计主要是解决HDFS在大数据场景下的小文件和集群规模的限制。|建设中|
