@@ -95,7 +95,7 @@
 ## 区块链 ⛓️
 | 项目名称 | 项目简介 | 立即参与贡献 |
 | :-: | - | - |
-|<a href="https://git.chainmaker.org.cn/chainmaker/chainmaker-go"><img src="https://chainmaker.org.cn/img/index/header-logo.png" width="70px;" alt=""/><br /><sub><b>ChainMaker</b></sub></a><br />|“长安链·ChainMaker”具备自主可控、灵活装配、软硬一体、开源开放的突出特点，由北京微芯研究院、清华大学、北京航空航天大学、腾讯、百度和京东等知名高校、企业共同研发。长安链作为区块链开源底层软件平台，包涵区块链核心框架、丰富的组件库和工具集，致力于为用户高效、精准地解决差异化区块链实现需求，构建高性能、高可信、高安全的新型数字基础设施，同时也是国内首个自主可控区块链软硬件技术体系。|建设中|
+|<a href="https://git.chainmaker.org.cn/chainmaker/chainmaker-go"><img src="../assets/logos/chainmakerLOGO.png" width="70px;" alt=""/><br /><sub><b>ChainMaker</b></sub></a><br />|“长安链·ChainMaker”具备自主可控、灵活装配、软硬一体、开源开放的突出特点，由北京微芯研究院、清华大学、北京航空航天大学、腾讯、百度和京东等知名高校、企业共同研发。长安链作为区块链开源底层软件平台，包涵区块链核心框架、丰富的组件库和工具集，致力于为用户高效、精准地解决差异化区块链实现需求，构建高性能、高可信、高安全的新型数字基础设施，同时也是国内首个自主可控区块链软硬件技术体系。|建设中|
 
 
 ## 组件、工具 🔧
