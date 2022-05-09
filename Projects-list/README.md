@@ -66,6 +66,7 @@
 | 项目名称 | 项目简介 | 立即参与贡献 |
 | :-: | - | - |
 |<a href="https://github.com/OpenCloudOS"><img src="../assets/logos/OpenCloudOS.png" width="70px;" alt="OpenCloudOS"/><br /><sub><b>OpenCloudOS</b></sub></a><br/>|OpenCloudOS是由操作系统、云平台、软硬件厂商与个人共同倡议发起的操作系统社区项目。成立之初，即决定成为完全开放中立的开源社区，并已通过开放原子开源基金会的 TOC 评议，确认接受社区项目捐赠。社区将打造全面中立、开放、安全、稳定易用、高性能的Linux服务器操作系统为目标，与成员单位共同构建健康繁荣的国产操作系统生态。|建设中|
+|<a href="https://github.com/RT-Thread/rt-thread"><img src="../assets/logos/RT-Thread.png" width="70px;" alt="RT-Thread"/><br /><sub><b>RT-Thread</b></sub></a><br />|RT-Thread是一个来自中国的开源物联网操作系统，它提供了非常强的可伸缩能力：从一个可以运行在ARM Cortex-M0芯片上的极小内核，到中等的ARM Cortex-M3/4/7系统，甚至是多核，64位的ARM Cortex-A，MIPS32/64处理器的功能丰富系统|建设中|
 
 
 ## 人工智能 🤖️
@@ -82,7 +83,6 @@
 | 项目名称 | 项目简介 | 立即参与贡献 |
 | :-: | - | - |
 |<a href="https://github.com/F-Stack/f-stack"><img src="https://github.com/F-Stack/f-stack/raw/dev/F-Stack.png" width="70px;" alt=""/><br /><sub><b>F-Stack</b></sub></a><br />|F-Stack是TencetCloud开源的全用户态高性能网络开发套件，基于DPDK、FreeBSD协议栈，并提供类POSIX接口方便应用接入。TencetCloud上已有COS/CDN/HttpDNS等使用F-Stack接入，极大提升了接入能力并降低了成本。|建设中|
-|<a href="https://github.com/RT-Thread/rt-thread"><img src="../assets/logos/RT-Thread.png" width="70px;" alt="RT-Thread"/><br /><sub><b>RT-Thread</b></sub></a><br />|RT-Thread是一个来自中国的开源物联网操作系统，它提供了非常强的可伸缩能力：从一个可以运行在ARM Cortex-M0芯片上的极小内核，到中等的ARM Cortex-M3/4/7系统，甚至是多核，64位的ARM Cortex-A，MIPS32/64处理器的功能丰富系统|建设中|
 |<a href="https://iotdb.apache.org"><img src="../assets/logos/iotdb.png" width="70px;" alt="IoTDB"/><br /><sub><b>IoTDB</b></sub></a><br />|Apache IoTDB（物联网数据库）是一款高吞吐、高压缩、高可用、支持存储、管理与分析的物联网原生开源时序数据库系统软件。IoTDB 提出了轻量式端边云协同架构、独创物联网数据模型、自研时序存储文件格式，提供纳秒级采样数据写入、TB级数据毫秒级查询、数十倍数据无损压缩存储，支持丰富的时序数据查询操作，并与Apache Hadoop、Spark和Flink等进行了深度集成，以满足工业物联网领域的海量数据存储、高速数据读取和复杂数据分析需求。<br/>Apache IoTDB项目源自清华大学，2020年成长为Apache基金会国际顶级项目，社区来自中、德、美、澳等全球代码贡献者近200人，社区企业用户规模数千人，目前已在国家电网、国家气象局、中航成飞、中核集团、长安汽车、金风科技等企业广泛应用。|建设中|
 
 
