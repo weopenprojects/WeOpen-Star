@@ -83,7 +83,7 @@
 |<a href="https://github.com/FederatedAI/FATE"><img src="../assets/logos/FATE.png" width="70px;" alt="FATE"/><br /><sub><b>FATE</b></sub></a>|Python|FATE（Federated AI Technology Enabler）是全球首个工业级联邦学习开源框架，使企业和机构能够在数据上进行协作，同时保护数据安全和隐私。它实现了基于同态加密和多方计算（MPC）的安全计算协议。支持各种联邦学习场景，FATE现在提供了一系列联邦学习算法，包括逻辑回归、基于树的算法、深度学习和迁移学习。|建设中|
 |<a href="https://github.com/jina-ai"><img src="../assets/logos/Jina AI.png" width="70px;" alt="JinaAI"/><br /><sub><b>JinaAI</b></sub></a>|Python|神经搜索是指用深度学习技术，对海量信息进行搜索，处理图像、视频、音频甚至 3D Mesh。多模态和跨模态搜索，是神经搜索的重要应用场景。<br/>Jina AI 的神经搜索生态包括 DocArray, Jina, Hub, Finetuner, CLIP-as-service, Now, JCloud 等多个产品，全链路覆盖神经搜索解决方案的开发及搭建，降低了对工程化、AI 建模和以及 DevOps 等综合能力的要求，使得开发者可以更轻松地搭建神经搜索系统。|[立即参与](https://github.com/weopenprojects/WeOpen-Star/issues/20)|
 |<a href="https://github.com/Tencent/ncnn"><img src="https://raw.githubusercontent.com/Tencent/ncnn/master/images/256-ncnn.png" width="70px;" alt=""/><br /><sub><b>ncnn</b></sub></a><br />|C++、C|ncnn 是一个为手机端极致优化的高性能神经网络前向计算框架。ncnn 从设计之初深刻考虑手机端的部署和使用。无第三方依赖，跨平台，手机端 cpu 的速度快于目前所有已知的开源框架。基于 ncnn，开发者能够将深度学习算法轻松移植到手机端高效执行，开发出人工智能 APP，将 AI 带到你的指尖。|建设中|
-|<a href="https://github.com/4paradigm/OpenMLDB"><img src="../assets/logos/OpenMLDB.png" width="70px;" alt=""/><br /><sub><b>OpenMLDB</b></sub></a><br />|C++、Java|OpenMLDB 是一个开源机器学习数据库，提供生产级数据及特征开发全栈 FeatureOps 解决方案。|建设中|
+|<a href="https://github.com/4paradigm/OpenMLDB"><img src="../assets/logos/OpenMLDB.png" width="70px;" alt=""/><br /><sub><b>OpenMLDB</b></sub></a><br />|C++、Java|OpenMLDB 是一个开源机器学习数据库，提供生产级数据及特征开发全栈 FeatureOps 解决方案。|[立即参与](https://github.com/Tencent/ncnn/discussions/3776)|
 
 
 ## 网络&物联网 🛸
