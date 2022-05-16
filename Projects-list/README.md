@@ -90,7 +90,7 @@
 ## 网络&物联网 🛸
 | 项目名称 | 主要语言 | 项目简介 | 贡献指南 |
 | :-: | :-: | - | - |
-|<a href="https://github.com/F-Stack/f-stack"><img src="https://github.com/F-Stack/f-stack/raw/dev/F-Stack.png" width="70px;" alt=""/><br /><sub><b>F-Stack</b></sub></a><br />|C|F-Stack是TencetCloud开源的全用户态高性能网络开发套件，基于DPDK、FreeBSD协议栈，并提供类POSIX接口方便应用接入。TencetCloud上已有COS/CDN/HttpDNS等使用F-Stack接入，极大提升了接入能力并降低了成本。|建设中|
+|<a href="https://github.com/F-Stack/f-stack"><img src="https://github.com/F-Stack/f-stack/raw/dev/F-Stack.png" width="70px;" alt=""/><br /><sub><b>F-Stack</b></sub></a><br />|C|F-Stack是TencetCloud开源的全用户态高性能网络开发套件，基于DPDK、FreeBSD协议栈，并提供类POSIX接口方便应用接入。TencetCloud上已有COS/CDN/HttpDNS等使用F-Stack接入，极大提升了接入能力并降低了成本。|[立即参与](https://github.com/weopenprojects/WeOpen-Star/issues/58)|
 |<a href="https://github.com/apache/iotdb"><img src="../assets/logos/iotdb.png" width="70px;" alt="IoTDB"/><br /><sub><b>IoTDB</b></sub></a><br />|Java|Apache IoTDB（物联网数据库）是一款高吞吐、高压缩、高可用、支持存储、管理与分析的物联网原生开源时序数据库系统软件。IoTDB 提出了轻量式端边云协同架构、独创物联网数据模型、自研时序存储文件格式，提供纳秒级采样数据写入、TB级数据毫秒级查询、数十倍数据无损压缩存储，支持丰富的时序数据查询操作，并与Apache Hadoop、Spark和Flink等进行了深度集成，以满足工业物联网领域的海量数据存储、高速数据读取和复杂数据分析需求。<br/>Apache IoTDB项目源自清华大学，2020年成长为Apache基金会国际顶级项目，社区来自中、德、美、澳等全球代码贡献者近200人，社区企业用户规模数千人，目前已在国家电网、国家气象局、中航成飞、中核集团、长安汽车、金风科技等企业广泛应用。|[立即参与](https://github.com/weopenprojects/WeOpen-Star/issues/39)|
 
 
