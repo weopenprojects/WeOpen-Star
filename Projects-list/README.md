@@ -85,6 +85,7 @@
 |<a href="https://github.com/jina-ai"><img src="../assets/logos/Jina AI.png" width="70px;" alt="JinaAI"/><br /><sub><b>JinaAI</b></sub></a>|Python|神经搜索是指用深度学习技术，对海量信息进行搜索，处理图像、视频、音频甚至 3D Mesh。多模态和跨模态搜索，是神经搜索的重要应用场景。<br/>Jina AI 的神经搜索生态包括 DocArray, Jina, Hub, Finetuner, CLIP-as-service, Now, JCloud 等多个产品，全链路覆盖神经搜索解决方案的开发及搭建，降低了对工程化、AI 建模和以及 DevOps 等综合能力的要求，使得开发者可以更轻松地搭建神经搜索系统。|[立即参与](https://github.com/weopenprojects/WeOpen-Star/issues/20)|
 |<a href="https://github.com/Tencent/ncnn"><img src="https://raw.githubusercontent.com/Tencent/ncnn/master/images/256-ncnn.png" width="70px;" alt=""/><br /><sub><b>ncnn</b></sub></a><br />|C++、C|ncnn 是一个为手机端极致优化的高性能神经网络前向计算框架。ncnn 从设计之初深刻考虑手机端的部署和使用。无第三方依赖，跨平台，手机端 cpu 的速度快于目前所有已知的开源框架。基于 ncnn，开发者能够将深度学习算法轻松移植到手机端高效执行，开发出人工智能 APP，将 AI 带到你的指尖。|[立即参与](https://github.com/weopenprojects/WeOpen-Star/issues/27)|
 |<a href="https://github.com/4paradigm/OpenMLDB"><img src="../assets/logos/OpenMLDB.png" width="70px;" alt=""/><br /><sub><b>OpenMLDB</b></sub></a><br />|C++、Java|OpenMLDB 是一个开源机器学习数据库，提供生产级数据及特征开发全栈 FeatureOps 解决方案。|[立即参与](https://github.com/weopenprojects/WeOpen-Star/issues/31)|
+|<a href="https://github.com/pola-rs"><img src="../assets/logos/polars.png" width="70px;" alt=""/><br /><sub><b>Polars</b></sub></a><br />|Rust|Polars 是一个用 Rust 实现的速度极快的 DataFrames 库，使用 Apache Arrow Columnar Format 作为内存模型。最近几年，Polars 在处理大数据集上的优势逐渐显著，受到国外很多科研机构的喜爱。|[立即参与](https://github.com/weopenprojects/WeOpen-Star/issues/69)|
 
 
 ## 网络&物联网 🛸
