@@ -17,6 +17,7 @@
 - [音视频](#音频视频-🎵)
 - [区块链](#区块链-⛓️)
 - [组件工具](#组件工具-🔧)
+- [教育](#教育-📖)
 - [公益项目](#公益项目)
 </details>
 
@@ -119,7 +120,6 @@
 |<a href="https://github.com/devstream-io/devstream"><img src="../assets/logos/DevStream.png" width="70px;" alt="DevStream"/><br /><sub><b>DevStream</b></sub></a><br />|Go|开源产品 DevStream 是一款开源的 DevOps 工具链管理工具，将 DevOps 全生命周期各 个环节的主流开源工具管理起来，包括这些工具的快速安装部署、最佳实践配置、工具间的打通等，帮助研发团队高效、轻松地构建灵活 DevOps 工具链，提升研发效能。|[立即参与](https://github.com/weopenprojects/WeOpen-Star/issues/64)|
 |<a href="https://github.com/xuri/excelize"><img src="../assets/logos/Excelize.png" width="70px" alt="Excelize" /><br/><sub><b>Excelize</b></sub></a><br />|Go|Excelize 是 Go 语言编写的用于操作 Office Excel 文档基础库，基于 ECMA-376，ISO/IEC 29500 国际标准。可以使用它来读取、写入由 Microsoft Excel™ 2007 及以上版本创建的电子表格文档。支持 XLAM / XLSM / XLSX / XLTM / XLTX 等多种文档格式，高度兼容带有样式、图片(表)、透视表、切片器等复杂组件的文档，并提供流式读写 API，用于处理包含大规模数据的工作簿。可应用于各类报表平台、云计算、边缘计算等系统。|[立即参与](https://github.com/weopenprojects/WeOpen-Star/issues/71)|
 |<a href="https://github.com/CloudWise-OpenSource/FlyFish"><img src="../assets/logos/FlyFish.png" width="70px;" alt="FlyFish"/><br /><sub><b>FlyFish</b></sub></a><br />|JavaScript|飞鱼平台(FlyFish)是云智慧公司自主设计、研发的一款低门槛、高拓展性的低代码应用开发平台， 为数据可视化开发场景提供了高效的一站式解决方案。飞鱼提供丰富的组件和应用模板库， 可通过拖拉拽的形式完成数据可视化开发，零开发背景的用户也可完成数据可视化开发工作。 同时，飞鱼也提供了灵活的拓展能力，支持组件开发、自定义函数与全局事件等配置， 面向复杂需求场景能够保证高效开发与交付。|[立即参与](https://github.com/weopenprojects/WeOpen-Star/issues/57)|
-|<a href="https://github.com/freeCodeCamp/freeCodeCamp"><img src="../assets/logos/freecodecamp.png" width="70px;" alt="freecodecamp"/><br /><sub><b>freecodecamp</b></sub></a><br />|TypeScript、JavaScript|freeCodeCamp.org is a friendly community where you can learn to code for free. It is run by a donor-supported 501(c)(3) nonprofit to help millions of busy adults transition into tech. Our community has already helped more than 40,000 people get their first developer job.Our full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.|建设中|
 |<a href="https://github.com/gogf/gf"><img src="../assets/logos/GoFrame.png" width="70px;" alt="GoFrame"/><br /><sub><b>GoFrame</b></sub></a><br />|Go|GoFrame是一款模块化、高性能、企业级的Go基础开发框架。GoFrame不是一款WEB/RPC框架，而是一款通用性的基础开发框架，是Golang标准库的一个增强扩展级，包含通用核心的基础开发组件，优点是实战化、模块化、文档全面、模块丰富、易用性高、通用性强、面向团队。如果您想使用Golang开发一个业务型项目，无论是小型还是中大型项目，GoFrame是您的不二之选。如果您想开发一个Golang组件库，GoFrame提供开箱即用、丰富强大的基础组件库也能助您的工作事半功倍。|[立即参与](https://github.com/weopenprojects/WeOpen-Star/issues/24)|建设中|
 |<a href="https://github.com/snail007/goproxy"><img src="../assets/logos/goproxy.svg" width="70px;" alt="GoProxy"/><br /><sub><b>GoProxy</b></sub></a><br />|Go|GoProxy是一款轻量级、功能强大、高性能的http代理、https代理、socks5代理、内网穿透代理服务器、ss代理、游戏盾、游戏代理，支持API代理认证。websocke代理、tcp代理、udp代理、socket代理、高防服务器。支持正向代理、反向代理、透明代理、TCP内网穿透、UDP内网穿透、HTTP内网穿透、HTTPS内网穿透、https代理负载均衡、http代理负载均衡、socks5代理负载均衡、socket代理负载均衡、ss代理负载均衡、TCP/UDP端口映射、SSH中转、TLS加密传输、协议转换、防污染DNS代理，限速，限连接数。|建设中|
 |<a href="https://github.com/go-kratos/kratos"><img src="../assets/logos/kratos.png" width="70px;" alt="Kratos"/><br /><sub><b>Kratos</b></sub></a><br />|Go|Kratos 一套轻量级 Go 微服务框架，包含大量微服务相关框架及工具。名字来源于:《战神》游戏以希腊神话为背景，讲述奎托斯（Kratos）由凡人成为战神并展开弑神屠杀的冒险经历。|建设中|
@@ -128,6 +128,9 @@
 |<a href="https://github.com/kaiyuanshe/osschat"><img src="../assets/logos/OSS.Chat.svg" width="70px;" alt="OSS.Chat"/><br /><sub><b>OSS.Chat</b></sub></a><br />|TypeScript|OSSChat 用于连接 IM 应用程序（例如，微信）和 Apache 社区工具（例如，邮件列表和 jira）。|[立即参与](https://github.com/weopenprojects/WeOpen-Star/issues/38)|
 |<a href="https://gitee.com/openblock"><img src="../assets/logos/OpenBlock.png" width="70px;" alt="OpenBlock"/><br /><sub><b>OpenBlock</b></sub></a><br />|JavaScript|OpenBlock是由开放原子开源基金会（OpenAtom Foundation）孵化及运营的开源项目。openblock是一门图形化编程语言，有自己的编译，链接，运行时。|[立即参与](https://github.com/weopenprojects/WeOpen-Star/issues/46)|
 |<a href="https://github.com/Tencent/CodeAnalysis"><img src="../assets/logos/TCA.png" width="70px;" alt=""/><br /><sub><b>TCA</b></sub></a><br />|Python、TypeScript|腾讯云代码分析（Tencent Cloud Code Analysis，简称TCA，内部曾用研发代号CodeDog）是集众多分析工具的云原生、分布式、高性能的代码综合分析跟踪平台，包含服务端、Web端和客户端三个组件，已集成一批自研工具，同时也支持动态集成业界各编程语言的分析工具。代码分析是通过词法分析、语法分析、控制流、数据流分析等技术对程序代码进行扫描，对代码进行综合分析，验证代码是否满足规范性、安全性、可靠性、可维护性等指标的一种代码分析技术。使用TCA可以帮助团队用代码分析技术查找代码中的规范性、结构性、安全漏洞等问题，持续监控项目代码质量并进行告警。同时TCA开放API，支持与上下游系统对接，从而集成代码分析能力，为代码质量提供保障，更有益于传承优良的团队代码文化。|[立即参与](https://github.com/weopenprojects/WeOpen-Star/issues/19)|
+
+## 教育 📖
+|<a href="https://github.com/freeCodeCamp/freeCodeCamp"><img src="../assets/logos/freecodecamp.png" width="70px;" alt="freecodecamp"/><br /><sub><b>freecodecamp</b></sub></a><br />|freeCodeCamp.org 成立于 2014 年，是一个由捐助者支持的501(c)(3)非营利组织。它是全球最大的开源公益编程教育社区，以“帮助人们免费学习编程”为使命，在成千上万名志愿贡献者的帮助下，创建了大量优质的编程教程，包括可以自定学习进度的交互式课程、视频课程、专栏文章等，内容涵盖 JavaScript、Python、SQL、数据科学等等——所有内容向公众免费开放。每天有数百万人在 freeCodeCamp 学习，超过 4 万名学员找到了自己的第一份开发者工作，改善自己的生活。学员们在世界各地自发成立数千个学习小组互相帮助。|建设中|
 
 ## 公益项目
 | 项目名称 | 项目简介| 贡献指南 |
