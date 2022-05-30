@@ -99,7 +99,7 @@
 ## 音频、视频 🎵
 | 项目名称 | 主要语言 | 项目简介 | 贡献指南  |
 | :-: | :-: | - | - |
-|<a href="https://github.com/ossrs/srs"><img src="https://avatars.githubusercontent.com/u/12165287?s=200&v=4" width="70px;" alt=""/><br /><sub><b>SRS</b></sub></a><br />|C++|SRS是一个简单高效的实时视频服务器，支持RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181|建设中|
+|<a href="https://github.com/ossrs/srs"><img src="https://avatars.githubusercontent.com/u/12165287?s=200&v=4" width="70px;" alt=""/><br /><sub><b>SRS</b></sub></a><br />|C++|SRS是一个简单高效的实时视频服务器，支持RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181|[立即参与]( https://github.com/ossrs/srs/contribute)|
 
 
 ## 区块链 ⛓️
