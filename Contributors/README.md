@@ -1,10 +1,3 @@
-<h1 align="center">🌟WeOpen Star 贡献记录表🌟</h1>
+# 📝 WeOpen Star 开源摘星计划积分排行榜
 
-<p align="center">
-🙋🏻‍♀️🙋🏻 请在已有贡献记录上方创建一行表单，提交你的贡献记录 🙆🏻‍♀️🙆🏻
-</p>
-
-| Github名字| 日期 | 关联项目 | 贡献类型 | 贡献记录 |
-| :----:| :----: | :----: | :----: | :----: |
-| 名字| 完成贡献任务的时间 | 填写你参与的项目名称（仅限于 WeOpen Star 支持项目） |可选择填写学习笔记/ 文档类 /编程类/日常任务/其他|附上你提交的学习笔记/issue/pr 链接|
-||||||
+📃 [2022年5月积分排行榜](https://github.com/weopenprojects/WeOpen-Star/blob/main/Contributors/ranking-list_May.md)
