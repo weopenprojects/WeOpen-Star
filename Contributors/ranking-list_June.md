@@ -47,7 +47,8 @@
 
 ### 🎁 6月贡献积分榜前五名
 > 恭喜积分榜前五名：许伟、胡元鑫、张兆原、黄骞、mroccyen ，获得 6 月贡献礼盒（腾讯视频年卡 + 怪奇鹅眼罩 + 腾源会 T恤）一份。
-![WeOpen Star](../assets/imgs/image-june1.png)
+
+![WeOpen Star](../assets/imgs/image-june1.png.png)
 
 ### 🎁 优秀学习笔记提交者
 > 恭喜以下五位优秀学习笔记提交者，获得学习礼盒（Q猛虎斜挎包+经典款QQ 公仔）一份。
@@ -77,4 +78,4 @@
 > 获奖的摘星者请于 7 月 10 日23:59 之前与腾小源（微信号: TCOSOO1）联系并确认邮寄信息，过期将视为放弃领奖。奖品将于确认寄件地址的 7 个工作日内发放，如受疫情影响，发货时间可能有变动，腾小源将予以同步。
 
 #### 7月奖品预告
-![WeOpen Star](../assets/imgs/image-june2.png)
+![WeOpen Star](../assets/imgs/image-june2.png.png)
