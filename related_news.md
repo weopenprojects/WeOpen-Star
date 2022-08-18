@@ -4,7 +4,7 @@
 ### 8月
 [开源星「001号」发布全新任务，欢迎登陆赢神秘大礼包！](https://mp.weixin.qq.com/s/-195lga3GfxhtCP9ZzDKuw)
 
-[借我 1 小时，与 1000 人一起参与开源](https://mp.weixin.qq.com/s/a61XWGVaQZ3lTiR4Eqg1bg))
+[借我 1 小时，与 1000 人一起参与开源](https://mp.weixin.qq.com/s/a61XWGVaQZ3lTiR4Eqg1bg)
 
 ### 7月
 [「开源摘星计划」7 月激励再升级，你还不来么？](https://mp.weixin.qq.com/s/eNMP4WXMQqBFZHRqjDZ6Ag)
@@ -15,7 +15,7 @@
 
 [1 小时，手把手教你成为 Crane 贡献者](https://mp.weixin.qq.com/s/4YWcKzgNSxJ-MYhQLHYD6g)
 
-[7 月开源摘星贡献榜揭晓，Top 5 的竟然是……](https://mp.weixin.qq.com/s/y8Ij4hX6G3ByfVya-PShjw))
+[7 月开源摘星贡献榜揭晓，Top 5 的竟然是……](https://mp.weixin.qq.com/s/y8Ij4hX6G3ByfVya-PShjw)
 
 ### 6月
 [开源摘星计划 6 月开源打卡积分攻略发布](https://mp.weixin.qq.com/s/WNRiYmh80yPvEVgHpFg6rQ)
