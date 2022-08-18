@@ -47,20 +47,21 @@ a. 点击项目贡献指南查看、领取任务
 
 ![WeOpen Star](./assets/imgs/image-doc7.png)
 
-![WeOpen Star](./assets/image-doc8.png)
+![WeOpen Star](./assets/imgs/image-doc8.png)
 
 b.进入项目仓库「issue」区查看、领取任务
-![WeOpen Star](./assets/image-doc9.png)
+
+![WeOpen Star](./assets/imgs/image-doc9.png)
 
 ## 三、 开源干货资料包
 海量开源资源干货包整理：包含各类编程语言学习包、开源成长学习包、大学课程包以及开源报告类 PDF 资料。
 添加小源好友（微信号：TCOSOO1）回复「摘星」，进入开源摘星计划群即可领取。
 
-![WeOpen Star](./assets/image-doc10.jpeg)
+![WeOpen Star](./assets/imgs/image-doc10.jpeg)
 
-![WeOpen Star](./assets/image-doc11.png)
+![WeOpen Star](./assets/imgs/image-doc11.png)
 
-![WeOpen Star](./assets/image-doc12.png)
+![WeOpen Star](./assets/imgs/image-doc12.png)
 
-![WeOpen Star](./assets/image-doc13.png)
+![WeOpen Star](./assets/imgs/image-doc13.png)
 
