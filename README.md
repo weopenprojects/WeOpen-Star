@@ -8,6 +8,7 @@
 我们将同你一起，探索更多的可能性！  
 
 [开源摘星计划学习成长资料&文档](https://github.com/weopenprojects/WeOpen-Star/blob/main/study_document.md)
+
 [开源摘星计划｜活动动态](https://github.com/weopenprojects/WeOpen-Star/blob/main/related_news.md)
 
 ## 活动时间
