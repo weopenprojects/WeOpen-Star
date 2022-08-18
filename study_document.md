@@ -5,4 +5,4 @@
 #### 1） 开源指北
 [https://oschina.gitee.io/opensource-guide/guide/](https://oschina.gitee.io/opensource-guide/guide/)
 
-![WeOpen Star](../assets/imgs/image-doc1.png)
+![WeOpen Star](./assets/imgs/image-doc1.png)
