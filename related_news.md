@@ -2,6 +2,8 @@
 摘星计划活动文章分享，欢迎阅读：
 
 ### 8月
+[B 站 Kratos 项目大揭秘！快来 get 一条龙项目贡献指导](https://mp.weixin.qq.com/s/PMvxQXHbZo4LqkffVAGI7Q). 
+  
 [开源星「001号」发布全新任务，欢迎登陆赢神秘大礼包！](https://mp.weixin.qq.com/s/-195lga3GfxhtCP9ZzDKuw)
 
 [借我 1 小时，与 1000 人一起参与开源](https://mp.weixin.qq.com/s/a61XWGVaQZ3lTiR4Eqg1bg)
