@@ -77,7 +77,7 @@
 
 ### 🎁  8月活动彩蛋奖
 
-![WeOpen Star](../assets/imgs/image-Aug3.png)
+![WeOpen Star](../assets/imgs/image-Aug4.png)
 
 > 另外恭喜以下同学解锁 7月彩蛋奖励，可领取【经典款QQ公仔或短鹅公仔（二选一）】一份！
 
@@ -96,4 +96,4 @@
 
 #### 9月奖品预告
 
-![WeOpen Star](../assets/imgs/image-july5.jpeg)
+![WeOpen Star](../assets/imgs/image-Aug5.png)
