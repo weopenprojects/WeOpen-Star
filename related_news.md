@@ -1,7 +1,14 @@
 # 开源摘星计划｜活动动态 🍊
 摘星计划活动文章分享，欢迎阅读：
+ 
+### 9月
+[直播｜60 分钟，带你轻松上手 OpenCloudOS](https://mp.weixin.qq.com/s/EWRw0cFH0rgb_yEDfTv7IQ)
+  
+[活动｜开源摘星计划「捉虫」大赛重磅开启！你离领奖只差一个好 Issue](https://mp.weixin.qq.com/s/dw1GyJWNijW3p9C9A6DqUw) 
 
 ### 8月
+[采访｜8 月开源摘星贡献榜揭晓：80、90 与 00 后的 PK？](https://mp.weixin.qq.com/s/FaMxJ9mSJluc6ADCpVHvNQ) 
+    
 [直播｜B 站 Kratos 项目大揭秘！快来 get 一条龙项目贡献指导](https://mp.weixin.qq.com/s/PMvxQXHbZo4LqkffVAGI7Q)
 
 [采访｜4 天 7 条 PR，80% 代码覆盖率，开源是「内卷」还是修炼？](https://mp.weixin.qq.com/s/QFpwsg9PWrJjS874lhzb1w) 
