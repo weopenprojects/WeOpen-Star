@@ -1,7 +1,12 @@
 # 开源摘星计划｜活动动态 🍊
 摘星计划活动文章分享，欢迎阅读：
+
+### 10月
+[采访｜9 月开源摘星贡献榜揭晓：参与开源最酷的瞬间是什么？](https://mp.weixin.qq.com/s/-cWutIJ61nt82kH5xjddXg). 
  
-### 9月
+### 9月 
+[活动｜全球校园「摘星者」招募正式启动！](https://mp.weixin.qq.com/s/UJ5gCfmFZCvMIWZ7hVAqWw)
+  
 [直播｜60 分钟，带你轻松上手 OpenCloudOS](https://mp.weixin.qq.com/s/EWRw0cFH0rgb_yEDfTv7IQ)
   
 [活动｜开源摘星计划「捉虫」大赛重磅开启！你离领奖只差一个好 Issue](https://mp.weixin.qq.com/s/dw1GyJWNijW3p9C9A6DqUw) 
