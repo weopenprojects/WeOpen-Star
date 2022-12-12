@@ -1,5 +1,7 @@
 # 📝 WeOpen Star 开源摘星计划积分排行榜
 
+📃 [2022年11月贡献积分榜&中奖名单公示](https://github.com/weopenprojects/WeOpen-Star/blob/main/Contributors/ranking-list_November.md)
+
 📃 [2022年10月贡献积分榜&中奖名单公示](https://github.com/weopenprojects/WeOpen-Star/blob/main/Contributors/ranking-list_October.md)
 
 📃 [2022年9月贡献积分榜&中奖名单公示](https://github.com/weopenprojects/WeOpen-Star/blob/main/Contributors/ranking-list_September.md)
