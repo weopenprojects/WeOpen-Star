@@ -38,19 +38,19 @@
 
 ### 🎁 12 月贡献积分榜前五名
 
-![WeOpen Star](../assets/imgs/nov1.png)
+![WeOpen Star](../assets/imgs/dec1.png)
 
 > 恭喜weihubeats、于耀东、陈炳晔、周修勇、胡元鑫获得11月贡献礼盒（QQ音乐年卡+保温杯）一份。
 
 ### 🎁 优秀学习笔记提交者
 
-![WeOpen Star](../assets/imgs/nov2.png)
+![WeOpen Star](../assets/imgs/dec2.png)
 
 > 恭喜周修勇、岳扬、张震霆、苏安妍位优秀学习笔记提交者，获得学习礼盒（保温杯+雨伞）一份。
 
 ### 🎁 12 月活动彩蛋奖
 
-![WeOpen Star](../assets/imgs/nov4.png)
+![WeOpen Star](../assets/imgs/dec3.png)
 
 > 另外恭喜：谭子熠、lushaorong、三石兄同学解锁12月彩蛋奖励，可领取【定制咖啡杯+手提袋】一份！
 
