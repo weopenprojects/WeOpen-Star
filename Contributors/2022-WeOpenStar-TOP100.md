@@ -72,7 +72,7 @@
 |64|tatekii33|freeCodeCamp|
 |65|jewisliu| Apache Doris|
 |66|heheer|freeCodeCamp|
-|67|李易达|OpenCloudOS、Kratos|
+|67|李易达|Kratos|
 |68|苏安妍|OpenBlock|
 |69|刘云川|Apache  SkyWalking|
 |70|白洪斌|Apache Kylin、Apache dolphinscheduler|
