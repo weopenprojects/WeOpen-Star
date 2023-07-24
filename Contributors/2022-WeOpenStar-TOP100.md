@@ -29,8 +29,8 @@
 |21|auula|Apache IoTDB、OpenMLDB、CodeAnalysis、OpenCloudOS|
 |22|唐铭穗|OpenBlock|
 |23|陈炳晔|Apache Doris、Apache Seatunnel(Incubating)|
-|24|谢盼盼|Apache Doris|
-|25|周修勇|Apache Kylin、Apache Doris、Apache ShardingSphere、Apache SkyWalking|
+|24|谢盼盼|Apache Kylin、Apache Doris、Apache ShardingSphere、Apache SkyWalking|
+|25|周修勇|长安链 ChainMaker|
 |26|吴文翰|OpenMLDB、Nebula Graph、Femas|
 |27|卢华东|RT-Thread|
 |28|蔡顺铠|Apache ShardingSphere|
